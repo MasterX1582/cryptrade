@@ -6,7 +6,7 @@ Obviously the thing to do was to be bullish in a bull market and bearish in a be
 cryptrade
 =========
 
-NodeJS trading client for Cryptotrader.org
+NodeJS trading client for [Cryptotrader.org](https://cryptotrader.org/?r=139)
 
 
 Cryptrade is a standalone client for Cryptotrader.org. The main purpose of this tool is to allow automated trading at 
